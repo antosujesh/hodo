@@ -1,0 +1,8 @@
+C:\Users\Anto-SJ\source\repos\hodo\hodo\bin\Debug\hodo.exe
+C:\Users\Anto-SJ\source\repos\hodo\hodo\bin\Debug\hodo.pdb
+C:\Users\Anto-SJ\source\repos\hodo\hodo\obj\Debug\hodo.csprojAssemblyReference.cache
+C:\Users\Anto-SJ\source\repos\hodo\hodo\obj\Debug\hodo.Form1.resources
+C:\Users\Anto-SJ\source\repos\hodo\hodo\obj\Debug\hodo.Properties.Resources.resources
+C:\Users\Anto-SJ\source\repos\hodo\hodo\obj\Debug\hodo.csproj.GenerateResource.cache
+C:\Users\Anto-SJ\source\repos\hodo\hodo\obj\Debug\hodo.exe
+C:\Users\Anto-SJ\source\repos\hodo\hodo\obj\Debug\hodo.pdb
