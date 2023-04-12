@@ -1,5 +1,5 @@
 # hodo
-This program will duplicate 100 files each in targeted folder, which make user difficult to find original file. it will work on background so user cant able to detact the application.    
+This program operates in the background and duplicates 100 files in a specific folder, making it challenging for the user to locate the original file. It is designed to be undetectable by the user.  
 
 #Before 
 
